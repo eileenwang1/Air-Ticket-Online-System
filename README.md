@@ -1,6 +1,6 @@
 # Air-Ticket-Online-System
 
-## CSCI-SHU 213 Databases Final Project, in collaboration with Jenny Zhu @jenny011
+CSCI-SHU 213 Databases Final Project, in collaboration with Jenny Zhu @jenny011
 
 ### Intronduction
 This project is an online Air Ticket Reservation System. Using this system,
